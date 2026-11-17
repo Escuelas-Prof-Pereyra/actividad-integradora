@@ -2,4 +2,4 @@
 
 Página de la Actividad Integradora de Programación (Prof. Pereyra).
 
-Abrila en: https://pablo22128.github.io/actividad-integradora-pdisc/
+Abrila en: https://escuelas-prof-pereyra.github.io/actividad-integradora/
